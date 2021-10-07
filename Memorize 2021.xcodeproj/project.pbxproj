@@ -11,6 +11,7 @@
 		EE22AEE3270DAF07006CD772 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE22AEE2270DAF07006CD772 /* ContentView.swift */; };
 		EE22AEE5270DAF09006CD772 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EE22AEE4270DAF09006CD772 /* Assets.xcassets */; };
 		EE22AEE8270DAF09006CD772 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EE22AEE7270DAF09006CD772 /* Preview Assets.xcassets */; };
+		EE234DA9270F2D9F001CB5B8 /* MemoryGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE234DA8270F2D9F001CB5B8 /* MemoryGame.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		EE22AEE2270DAF07006CD772 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		EE22AEE4270DAF09006CD772 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EE22AEE7270DAF09006CD772 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		EE234DA8270F2D9F001CB5B8 /* MemoryGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemoryGame.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				EE22AEE0270DAF07006CD772 /* Memorize_2021App.swift */,
 				EE22AEE2270DAF07006CD772 /* ContentView.swift */,
+				EE234DA8270F2D9F001CB5B8 /* MemoryGame.swift */,
 				EE22AEE4270DAF09006CD772 /* Assets.xcassets */,
 				EE22AEE6270DAF09006CD772 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EE234DA9270F2D9F001CB5B8 /* MemoryGame.swift in Sources */,
 				EE22AEE3270DAF07006CD772 /* ContentView.swift in Sources */,
 				EE22AEE1270DAF07006CD772 /* Memorize_2021App.swift in Sources */,
 			);
